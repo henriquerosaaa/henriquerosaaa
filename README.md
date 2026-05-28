@@ -1,45 +1,63 @@
 
 <div align="center">
 
-<h1>👋 Olá, eu sou Henrique Rosa</h1>
-
+<h1>  👋 Olá, eu sou Henrique Rosa </h1>
 <p>
-🎓 Atualmente estou fazendo um curso no SENAI com carga horária de 670 horas.
+<img width="18" src="https://img.icons8.com/ios-filled/50/ffffff/student-male.png">
+ Atualmente estou fazendo um curso no SENAI com carga horária de 670 horas.
 </p>
 
 <p>
-💻 Interessado em tecnologia, programação e desenvolvimento de software.
+<img width="18" src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png">
+ Interessado em tecnologia, programação e desenvolvimento de software.
 </p>
 
 <p>
-🚀 Sempre buscando aprender coisas novas e evoluir minhas habilidades.
+<img width="18" src="https://img.icons8.com/ios-filled/50/ffffff/rocket.png">
+ Sempre buscando aprender coisas novas e evoluir minhas habilidades.
 </p>
 
 <br>
-
-<a href="https://www.linkedin.com/in/henrique-rosa-707731260" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-Henrique%20Rosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
 
 </div>
 
 ---
 
-<h2>📖 Sobre mim</h2>
+<h2>
+<img width="22" src="https://img.icons8.com/ios-filled/50/ffffff/book.png">
+ Sobre mim
+</h2>
 
 <ul>
-  <li>📚 Estudando tecnologia e desenvolvimento</li>
-  <li>🛠️ Aprendendo lógica de programação e ferramentas da área</li>
-  <li>🎯 Focado em crescimento profissional</li>
-  <li>🤝 Aberto a novos projetos e aprendizados</li>
+
+<li>
+<img width="18" src="https://img.icons8.com/ios-filled/50/ffffff/book.png">
+ Estudando tecnologia e desenvolvimento
+</li>
+
+<li>
+<img width="18" src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png">
+ Aprendendo lógica de programação e ferramentas da área
+</li>
+
+<li>
+<img width="18" src="https://img.icons8.com/ios-filled/50/ffffff/goal.png">
+ Focado em crescimento profissional
+</li>
+
+<li>
+<img width="18" src="https://img.icons8.com/ios-filled/50/ffffff/handshake.png">
+ Aberto a novos projetos e aprendizados
+</li>
+
 </ul>
 
 ---
 
-<h2>🚀 Tecnologias e Ferramentas</h2>
+<h2>
+<img width="22" src="https://img.icons8.com/ios-filled/50/ffffff/maintenance.png">
+ Tecnologias e Ferramentas
+</h2>
 
 <div align="center">
 
@@ -53,29 +71,29 @@
 
 </div>
 
-
-
 ---
 
-<h2>📫 Contato</h2>
+<h2>
+<img width="22" src="https://img.icons8.com/ios-filled/50/ffffff/secured-letter.png">
+ Contato
+</h2>
 
-<p>
-<a href="https://github.com/henriquerosaaa">
-GitHub: github.com/henriquerosaaa
-</a>
-</p>
+<p align="center">
 
-<p>
-<a href="https://www.linkedin.com/in/henrique-rosa-707731260">
-LinkedIn: henrique-rosa-707731260
+<a href="https://www.linkedin.com/in/henrique-rosa-707731260" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Henrique%20Rosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-<h3>⭐ Obrigado por visitar meu perfil!</h3>
+<h3>
+<img width="20" src="https://img.icons8.com/ios-filled/50/ffffff/star.png">
+ Obrigado por visitar meu perfil!
+</h3>
 
 </div>
 
