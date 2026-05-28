@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <h1>👋 Olá, eu sou Henrique Rosa</h1>
@@ -79,4 +79,4 @@ LinkedIn: henrique-rosa-707731260
 <h3>⭐ Obrigado por visitar meu perfil!</h3>
 
 </div>
-```
+
