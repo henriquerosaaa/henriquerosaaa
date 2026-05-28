@@ -24,13 +24,6 @@
   />
 </a>
 
-<a href="https://github.com/henriquerosaaa" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
 </div>
 
 ---
