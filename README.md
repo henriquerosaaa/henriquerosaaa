@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Olá, eu sou Henrique Rosa
 
-<!--
-**henriquerosaaa/henriquerosaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente estou fazendo um curso no SENAI com carga horária de 700 horas.
 
-Here are some ideas to get you started:
+💻 Interessado em tecnologia, programação e desenvolvimento de software.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sempre buscando aprender coisas novas e evoluir minhas habilidades.
+
+---
+
+
+##  Sobre mim
+
+- 📖 Estudando tecnologia e desenvolvimento
+  
+- 🛠️ Aprendendo lógica de programação e ferramentas da área
+  
+- 🎯 Focado em crescimento profissional
+  
+- 🤝 Aberto a novos projetos e aprendizados
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/henriquerosaaa
+
+---
+
+⭐ Obrigado por visitar meu perfil!
