@@ -4,7 +4,7 @@
 <h1>👋 Olá, eu sou Henrique Rosa</h1>
 
 <p>
-🎓 Atualmente estou fazendo um curso no SENAI com carga horária de 700 horas.
+🎓 Atualmente estou fazendo um curso no SENAI com carga horária de 670 horas.
 </p>
 
 <p>
